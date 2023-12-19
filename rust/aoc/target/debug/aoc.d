@@ -1,0 +1,1 @@
+/Users/deverkemmenash/Desktop/2023/AoC/rust/aoc/target/debug/aoc: /Users/deverkemmenash/Desktop/2023/AoC/rust/aoc/src/day10.rs /Users/deverkemmenash/Desktop/2023/AoC/rust/aoc/src/day12.rs /Users/deverkemmenash/Desktop/2023/AoC/rust/aoc/src/day19.rs /Users/deverkemmenash/Desktop/2023/AoC/rust/aoc/src/main.rs
